@@ -1,0 +1,5 @@
+{
+  "name": "DecadeBook",
+  "description": "A retro-styled web application that generates photos of you through the decades, from the 1950s to the 2000s, capturing the fashion and vibe of each era.",
+  "requestFramePermissions": []
+}
